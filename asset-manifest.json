@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Todo-redux-filter/static/css/main.bde05171.chunk.css",
+    "main.js": "/Todo-redux-filter/static/js/main.5bfe457f.chunk.js",
+    "main.js.map": "/Todo-redux-filter/static/js/main.5bfe457f.chunk.js.map",
+    "runtime-main.js": "/Todo-redux-filter/static/js/runtime-main.f17d5d70.js",
+    "runtime-main.js.map": "/Todo-redux-filter/static/js/runtime-main.f17d5d70.js.map",
+    "static/js/2.b19d1781.chunk.js": "/Todo-redux-filter/static/js/2.b19d1781.chunk.js",
+    "static/js/2.b19d1781.chunk.js.map": "/Todo-redux-filter/static/js/2.b19d1781.chunk.js.map",
+    "index.html": "/Todo-redux-filter/index.html",
+    "static/css/main.bde05171.chunk.css.map": "/Todo-redux-filter/static/css/main.bde05171.chunk.css.map",
+    "static/js/2.b19d1781.chunk.js.LICENSE.txt": "/Todo-redux-filter/static/js/2.b19d1781.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f17d5d70.js",
+    "static/js/2.b19d1781.chunk.js",
+    "static/css/main.bde05171.chunk.css",
+    "static/js/main.5bfe457f.chunk.js"
+  ]
+}
